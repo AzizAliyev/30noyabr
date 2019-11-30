@@ -1,0 +1,32 @@
+.all {
+  background: black;
+  padding: 40px 40px;
+}
+
+.all i {
+  color: blanchedalmond;
+  font-size: 17px;
+  padding: 7px;
+  border-radius: 50px;
+  border: 1px solid greenyellow;
+  margin: 0 10px;
+}
+
+.all i:hover {
+  color: green;
+  -webkit-transform: translateY(-10px);
+          transform: translateY(-10px);
+}
+
+.all button {
+  font-size: 17px;
+  font-weight: bold;
+  border: 2px solid red;
+  padding: 10px 20px;
+}
+
+.all h3 {
+  color: white;
+  font-size: 32px;
+}
+/*# sourceMappingURL=30noyabr.css.map */

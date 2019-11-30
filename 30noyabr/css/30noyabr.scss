@@ -1,0 +1,26 @@
+.all{
+    background: black;
+    padding: 40px 40px;
+    i{
+        &:hover{
+            color:green;
+            transform: translateY(-10px);
+        }
+        color: blanchedalmond;
+        font-size: 17px;
+        padding: 7px;
+        border-radius: 50px;
+        border: 1px solid greenyellow;
+        margin: 0 10px;
+    }
+    button{
+      font-size: 17px;
+       font-weight: bold;
+        border: 2px solid red;
+        padding:  10px 20px;
+    }
+    h3{
+        color: white;
+        font-size: 32px;
+    }
+}
